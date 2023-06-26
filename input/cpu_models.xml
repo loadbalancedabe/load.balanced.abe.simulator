@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cpu_models>
+<assistantNode>
+    <cpu_model>Intel Core2 Quad Q6600 @ 2.40GHz</cpu_model>
+    <cores>4</cores>
+    <threads>4</threads> 
+	<computer_gflops>9.76</computer_gflops>
+    <core_gflops>2.44</core_gflops>
+</assistantNode>
+<assistantNode>
+    <cpu_model>Intel Core i5-4210U @ 1.70GHz</cpu_model>
+    <cores>2</cores>
+    <threads>4</threads> 
+	<computer_gflops>9.83</computer_gflops>
+    <core_gflops>2.46</core_gflops>
+</assistantNode>
+<assistantNode>
+    <cpu_model>Intel Core i7-7700K CPU @ 4.20GHz</cpu_model>
+    <cores>4</cores>
+    <threads>8</threads> 
+	<computer_gflops>47.88</computer_gflops>
+    <core_gflops>5.99</core_gflops>
+</assistantNode>
+<assistantNode>
+    <cpu_model>Intel Core i7-3632QM @ 2.20GHz</cpu_model>
+    <cores>4</cores>
+    <threads>8</threads> 
+	<computer_gflops>21.77</computer_gflops>
+    <core_gflops>2.72</core_gflops>
+</assistantNode>
+<assistantNode>
+    <cpu_model>ARM ARMv7 rev 3 (v7l) 4 Core 2065 MHz</cpu_model>
+    <cores>4</cores>
+    <threads>4</threads> 
+	<computer_gflops>8.36</computer_gflops>
+    <core_gflops>2.09</core_gflops>
+</assistantNode>
+<assistantNode>
+    <cpu_model>Intel Core i5-2400S @ 2.50GHz</cpu_model>
+    <cores>4</cores>
+    <threads>4</threads> 
+	<computer_gflops>10.68</computer_gflops>
+    <core_gflops>2.79</core_gflops>
+</assistantNode>
+<assistantNode>
+    <cpu_model>Intel Core i9-9900K CPU @ 3.60GHz</cpu_model>
+    <cores>6</cores>
+    <threads>16</threads> 
+	<computer_gflops>98.88</computer_gflops>
+    <core_gflops>6.18</core_gflops>
+</assistantNode>
+<assistantNode>
+    <cpu_model>Intel Core i5-3210M @ 2.50GHz</cpu_model>
+    <cores>2</cores>
+    <threads>4</threads> 
+	<computer_gflops>11.16</computer_gflops>
+    <core_gflops>2.79</core_gflops>
+</assistantNode>
+<assistantNode>
+    <cpu_model>Intel Xeon L5520 @ 2.27GHz</cpu_model>
+    <cores>6</cores>
+    <threads>8</threads> 
+	<computer_gflops>19.53</computer_gflops>
+    <core_gflops>2.0</core_gflops>
+</assistantNode>
+<assistantNode>
+    <cpu_model>Intel Core i7-8550U @ 1.80GHz</cpu_model>
+    <cores>4</cores>
+    <threads>8</threads> 
+	<computer_gflops>25.64</computer_gflops>
+    <core_gflops>3.26</core_gflops>
+</assistantNode>
+<assistantNode>
+    <cpu_model>Intel Core i7-4800MQ @ 2.70GHz</cpu_model>
+    <cores>4</cores>
+    <threads>8</threads> 
+	<computer_gflops>28.04</computer_gflops>
+    <core_gflops>3.50</core_gflops>
+</assistantNode>
+<assistantNode>
+    <cpu_model>Intel(R) Core(TM) i9-7980XE CPU @ 2.60GHz </cpu_model>
+    <cores>18</cores>
+    <threads>36</threads> 
+	<computer_gflops>140.43</computer_gflops>
+    <core_gflops>3.94</core_gflops>
+</assistantNode>
+<assistantNode>
+    <cpu_model>Intel Xeon E5-2670 @ 2.60GHz</cpu_model>
+    <cores>8</cores>
+    <threads>16</threads> 
+	<computer_gflops>94.59</computer_gflops>
+    <core_gflops>3.27</core_gflops>
+</assistantNode>
+<assistantNode>
+    <cpu_model>AMD Ryzen Threadripper 2990WX</cpu_model>
+    <cores>32</cores>
+    <threads>64</threads> 
+	<computer_gflops>262.73</computer_gflops>
+    <core_gflops>4.53</core_gflops>
+</assistantNode>
+<assistantNode>
+    <cpu_model>AMD Ryzen 9 3950X 16-Core Processor</cpu_model>
+    <cores>16</cores>
+    <threads>32</threads> 
+	<computer_gflops>170.56</computer_gflops>
+    <core_gflops>5.42</core_gflops>
+</assistantNode>
+<assistantNode>
+    <cpu_model>Intel Core2 Quad Q6600 @ 2.40GHz</cpu_model>
+    <cores>4</cores>
+    <threads>4</threads> 
+	<computer_gflops>9.76</computer_gflops>
+    <core_gflops>2.44</core_gflops>
+</assistantNode>
+<assistantNode>
+    <cpu_model>Intel Core i5-4210U @ 1.70GHz</cpu_model>
+    <cores>2</cores>
+    <threads>4</threads> 
+	<computer_gflops>9.83</computer_gflops>
+    <core_gflops>2.46</core_gflops>
+</assistantNode>
+<assistantNode>
+    <cpu_model>Intel Core i7-7700K CPU @ 4.20GHz</cpu_model>
+    <cores>4</cores>
+    <threads>8</threads> 
+	<computer_gflops>47.88</computer_gflops>
+    <core_gflops>5.99</core_gflops>
+</assistantNode>
+<assistantNode>
+    <cpu_model>Intel Core i7-3632QM @ 2.20GHz</cpu_model>
+    <cores>4</cores>
+    <threads>8</threads> 
+	<computer_gflops>21.77</computer_gflops>
+    <core_gflops>2.72</core_gflops>
+</assistantNode>
+<assistantNode>
+    <cpu_model>ARM ARMv7 rev 3 (v7l) 4 Core 2065 MHz</cpu_model>
+    <cores>4</cores>
+    <threads>4</threads> 
+	<computer_gflops>8.36</computer_gflops>
+    <core_gflops>2.09</core_gflops>
+</assistantNode>
+<assistantNode>
+    <cpu_model>Intel Core i5-2400S @ 2.50GHz</cpu_model>
+    <cores>4</cores>
+    <threads>4</threads> 
+	<computer_gflops>10.68</computer_gflops>
+    <core_gflops>2.79</core_gflops>
+</assistantNode>
+<assistantNode>
+    <cpu_model>Intel Core i9-9900K CPU @ 3.60GHz</cpu_model>
+    <cores>6</cores>
+    <threads>16</threads> 
+	<computer_gflops>98.88</computer_gflops>
+    <core_gflops>6.18</core_gflops>
+</assistantNode>
+<assistantNode>
+    <cpu_model>Intel Core i5-3210M @ 2.50GHz</cpu_model>
+    <cores>2</cores>
+    <threads>4</threads> 
+	<computer_gflops>11.16</computer_gflops>
+    <core_gflops>2.79</core_gflops>
+</assistantNode>
+<assistantNode>
+    <cpu_model>Intel Xeon L5520 @ 2.27GHz</cpu_model>
+    <cores>6</cores>
+    <threads>8</threads> 
+	<computer_gflops>19.53</computer_gflops>
+    <core_gflops>2.0</core_gflops>
+</assistantNode>
+<assistantNode>
+    <cpu_model>Intel Core i7-8550U @ 1.80GHz</cpu_model>
+    <cores>4</cores>
+    <threads>8</threads> 
+	<computer_gflops>25.64</computer_gflops>
+    <core_gflops>3.26</core_gflops>
+</assistantNode>
+<assistantNode>
+    <cpu_model>Intel Core i7-4800MQ @ 2.70GHz</cpu_model>
+    <cores>4</cores>
+    <threads>8</threads> 
+	<computer_gflops>28.04</computer_gflops>
+    <core_gflops>3.50</core_gflops>
+</assistantNode>
+<assistantNode>
+    <cpu_model>Intel(R) Core(TM) i9-7980XE CPU @ 2.60GHz </cpu_model>
+    <cores>18</cores>
+    <threads>36</threads> 
+	<computer_gflops>140.43</computer_gflops>
+    <core_gflops>3.94</core_gflops>
+</assistantNode>
+<assistantNode>
+    <cpu_model>Intel Xeon E5-2670 @ 2.60GHz</cpu_model>
+    <cores>8</cores>
+    <threads>16</threads> 
+	<computer_gflops>94.59</computer_gflops>
+    <core_gflops>3.27</core_gflops>
+</assistantNode>
+<assistantNode>
+    <cpu_model>AMD Ryzen Threadripper 2990WX</cpu_model>
+    <cores>32</cores>
+    <threads>64</threads> 
+	<computer_gflops>262.73</computer_gflops>
+    <core_gflops>4.53</core_gflops>
+</assistantNode>
+<assistantNode>
+    <cpu_model>AMD Ryzen 9 3950X 16-Core Processor</cpu_model>
+    <cores>16</cores>
+    <threads>32</threads> 
+	<computer_gflops>170.56</computer_gflops>
+    <core_gflops>5.42</core_gflops>
+</assistantNode>
+</cpu_models>
